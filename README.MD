@@ -1,4 +1,4 @@
-# Image Processing TPs (Travaux Pratiques)
+# Image Processing TPs
 
 ## Description
 
